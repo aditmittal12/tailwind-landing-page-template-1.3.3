@@ -1,0 +1,12 @@
+/* src/components/VisualizationSection.css */
+.visualization-section {
+    text-align: center; /* Center align the text */
+    margin: 20px 0; /* Add some margin */
+}
+
+.media-container {
+    display: flex; /* Use flexbox for side by side alignment */
+    justify-content: center; /* Center the images */
+    gap: 20px; /* Space between images */
+    margin-top: 20px; /* Space above the images */
+}
